@@ -9,3 +9,6 @@ A forrásanyagok letöltéséhez és használatához futtasd az alábbi parancso
 ```bash
 git clone -b fetch_hataridok https://github.com/vellt/web_12B_1csop_forrasok.git
 ```
+
+
+[apk](https://github.com/Attila428/hataridok/releases/download/v001/app-release.apk)
